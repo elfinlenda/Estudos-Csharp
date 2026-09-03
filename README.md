@@ -18,7 +18,7 @@ C#
 * **Interface:** Contrato contendo apenas métodos obrigatórios[cite: 1]. Ao contrário da herança, o C# permite implementar múltiplas interfaces[cite: 1].
 
 
-## 📂 Estudos-Csharp -> aprendizado C# :
+## 📂 Estrutura do Repositório -> aprendizado C# :
 
 * **Abstracao/** - Projetos focados em simplificar entidades do mundo real.
 * **Construtor/** - Práticas de inicialização de estados de objetos.
@@ -29,6 +29,11 @@ C#
 * **Interface/** - Implementação de contratos obrigatórios.
 * **ObjetoPessoa/** - Criação e manipulação de objetos e instâncias básicas.
 * **polimorfismo/** - Sobrescrita e múltiplas formas de métodos.
+
+## 📂 Estrutura do Repositório -> Exercícios C# - POO :
+
+* **Atividade1/** - Classe `Produto` com atributos encapsulados (validação de valor e forma de pagamento via `get`/`set`) e cálculo de desconto condicional conforme a forma de pagamento.
+* **Atividade1 (resumo):** Simulação de precificação com aplicação automática de desconto, considerando a forma de pagamento escolhida (à vista ou parcelado).
 
 
 
