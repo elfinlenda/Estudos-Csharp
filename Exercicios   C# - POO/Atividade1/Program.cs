@@ -15,11 +15,21 @@ O que vamos utilizar: Classe, atributo, método, objeto e encapsulamento
 */
 
 
-Console.WriteLine("----PROGRAMA TESTE---------\n");
+Console.WriteLine("----PROGRAMA TESTE----\n");
 
 
-Produto armario = new("Armario casas Bahia",7080,1);
-Produto armario2 = new("Armario casas Bahia",501,1);
+Produto armario = new();
+armario.Nome = "Armario";
+armario.Valor = 5000 ;
+armario.Forma = 1;
 
 armario.AplicadorDeDesconto();
-armario2.AplicadorDeDesconto();
+
+
+Produto balde = new();
+balde.Nome = "Balde verde";
+balde.Valor = 9999 ;
+balde.Forma = 1;
+
+balde.AplicadorDeDesconto();
+// armario2.AplicadorDeDesconto();
