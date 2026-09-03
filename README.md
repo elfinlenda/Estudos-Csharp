@@ -32,10 +32,10 @@ C#
 
 ## 📂 Estrutura do Repositório -> Exercícios C# - POO :
 
-* **Atividade1/** - Classe `Produto` com atributos encapsulados (validação de valor e forma de pagamento via `get`/`set`) e cálculo de desconto condicional conforme a forma de pagamento.
 * **Atividade1 (resumo):** Simulação de precificação com aplicação automática de desconto, considerando a forma de pagamento escolhida (à vista ou parcelado).
-
-
+* **Atividade2 (resumo): Criação de uma classe Aluno com atributos de nome e duas notas, contendo métodos privados para calcular a média e a situação, e um método público para retornar a mensagem final.
+* **Atividade3 (resumo): Criação de uma classe Pessoa com atributos privados de nome, idade e cidade, inicializados por um construtor que executa um método privado responsável por retornar uma frase concatenando esses dados.
+* **Atividade4 (resumo): Criação de uma classe Media sem atributos, utilizando construtores sobrecarregados (um para duas notas e outro para três) para calcular e exibir o valor da média via Console.
 
 Como Executar:
 
