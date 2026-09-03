@@ -18,7 +18,7 @@ C#
 * **Interface:** Contrato contendo apenas métodos obrigatórios[cite: 1]. Ao contrário da herança, o C# permite implementar múltiplas interfaces[cite: 1].
 
 
-## 📂 Estrutura do Repositório -> aprendizado C# :
+## 📂 Estudos-Csharp -> aprendizado C# :
 
 * **Abstracao/** - Projetos focados em simplificar entidades do mundo real.
 * **Construtor/** - Práticas de inicialização de estados de objetos.
