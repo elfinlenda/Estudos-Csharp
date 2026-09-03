@@ -69,15 +69,23 @@ class Produto
          switch(opcao)
         {
             case 1:
-                    if(Valor > 500)
-                        Valor = Valor - (Valor * 0.1)  ;
+                    if(Valor >= 500)
+                    {
+                        Valor = Valor - (Valor * 0.1);
+                        Console.WriteLine($"Voce obteve um desconto de 10% e o valor foi para: {Valor}");
+                    }else
+                    {
+                        Console.WriteLine($"Valor nao obteve desconto pois e menos de 500! \n Valor: {Valor}");
+                    }
                     
-                    Console.WriteLine($"Voce obteve um desconto de 10% e o valor foi para: {Valor}");
+                    
+                        
+                        
             break;
             
             case 2:
 
-                Console.WriteLine($"A compra foi parcelada nao tem desconto!! valor: {Valor}");
+                Console.WriteLine($"A compra foi parcelada nao tem desconto!! \nValor: {Valor}");
                     
             break;
 
