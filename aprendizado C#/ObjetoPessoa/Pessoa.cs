@@ -3,8 +3,8 @@ class Pessoa
     public string Nome;
     public int Idade;
     public string CPF;
-
-    // metodo para apresentar alguem
+    // mudando paramentros
+    // metodo para apresentar alguem gg
     public void Apresentar()
     {
         Console.WriteLine($"Oi me chamo, {Nome}, e tenho {Idade} anos de idade !\n Com o CPF atal de: {CPF}");

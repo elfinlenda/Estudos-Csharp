@@ -6,7 +6,7 @@ class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!"); // esse comando ja quebra a linha automaticamente sem necessidade de colocar o \n no final da frase
+            Console.WriteLine("Hello, World!"); //a esse comando ja quebra a linha automaticamente sem necessidade de colocar o \n no final da frase
 
             Console.Write("\nbom dia, Fabio ! Aprendendo C# do comeco \n"); // aqui esta comum como em C/C++
 
@@ -38,7 +38,7 @@ class Program
 
 
             // agora vou fazer testes de entrada de dados pelo teclado
-
+            // isso faz sentido ?
             Console.Write("Digite seu AQUI sua altura: "); // exibindo frase para pegar altura
 
             int altura;
