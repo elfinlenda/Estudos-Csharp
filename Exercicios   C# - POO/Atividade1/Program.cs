@@ -1,5 +1,5 @@
 ﻿/*
-    EXERCICIO 1
+    EXERCICIO 01
 
 Atividade: Criar uma classe Produto, contendo os atributos:
 a) nome

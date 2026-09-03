@@ -1,4 +1,6 @@
 ﻿/*
+EXERCÍCIO 02
+
 - Atividade: Criar uma classe Aluno, contendo os atributos:
   a) nome
   b) nota1

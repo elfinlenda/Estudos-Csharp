@@ -1,8 +1,6 @@
 ﻿/*
 EXERCÍCIO 03
 
-- Crie um projeto: dotnet new console -n exercicio03
-
 - Atividade: Criar uma classe Pessoa, contendo os atributos privados:
   a) nome
   b) idade
