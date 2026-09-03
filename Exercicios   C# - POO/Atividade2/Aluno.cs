@@ -61,6 +61,6 @@ class Aluno
     {
         double retorno = Media();
         string retorno2 = Situacao(retorno);
-        Console.WriteLine($"INFORMACOES DO ALUNO\nNome:{Nome}\nMedia:{retorno}\nSituacao{retorno2}");
+        Console.WriteLine($"INFORMACOES DO ALUNO\nNome:{Nome}\nMedia:{retorno}\nSituacao{retorno2}\n\n");
     }
 }

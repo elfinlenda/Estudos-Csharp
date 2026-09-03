@@ -16,9 +16,17 @@ Mensagem: Método publico para retornar o nome, média e situação.
 Aluno aluno1 = new();
 
 aluno1.Nome = "Fabio emanuel";
-aluno1.Nota1 = 4.98;
-aluno1.Nota2 = 5.5;
-
-
+aluno1.Nota1 = 8.35;
+aluno1.Nota2 = 9.11;
 
 aluno1.Mensagem();
+
+
+Aluno aluno2 = new();
+
+aluno2.Nome = "Joaquim Vinicius";
+aluno2.Nota1 = 3.35;
+aluno2.Nota2 = 7.11;
+
+
+aluno2.Mensagem();
