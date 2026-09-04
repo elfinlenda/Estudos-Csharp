@@ -42,12 +42,17 @@ C#
 * **Atividade 8 (resumo):** Criação das interfaces IDesconto e IBonus implementadas por uma classe Colaborador, contendo métodos para cálculo de desconto de vale-transporte e premiação por falta.
 Como Executar:
 
-Para rodar qualquer um dos exercícios localmente, navegue até a pasta do projeto escolhido e utilize o comando abaixo no terminal:
+Como Executar
+Para rodar qualquer um dos projetos localmente na sua máquina, certifique-se de ter o .NET SDK instalado. Em seguida, siga os passos abaixo:
 
-```Bash
+Abra o terminal (prompt de comando, PowerShell ou terminal do VS Code) e navegue até a pasta raiz do repositório clonado.
+
+Acesse o diretório específico do projeto ou atividade que deseja testar (por exemplo, cd "Exercicios   C# - POO/Atividade1" ou cd Abstracao).
+
+Execute o comando de compilação e execução do .NET:
+
+Bash
 dotnet run
-```
-
 
 Contato:
 LinkedIn: [Fábio Canabrava](https://www.linkedin.com/in/fabiocanabrava/)
