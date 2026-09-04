@@ -36,7 +36,10 @@ C#
 * **Atividade2 (resumo):** Criação de uma classe Aluno com atributos de nome e duas notas, contendo métodos privados para calcular a média e a situação, e um método público para retornar a mensagem final.
 * **Atividade3 (resumo):** Criação de uma classe Pessoa com atributos privados de nome, idade e cidade, inicializados por um construtor que executa um método privado responsável por retornar uma frase concatenando esses dados.
 * **Atividade4 (resumo):** Criação de uma classe Media sem atributos, utilizando construtores sobrecarregados (um para duas notas e outro para três) para calcular e exibir o valor da média via Console.
-
+* **Atividade 5 (resumo):** Criação de uma classe Construtores demonstrando a sobrecarga de construtores (constructors overloading), permitindo inicializar objetos com diferentes combinações de parâmetros.
+* **Atividade 6 (resumo):** Criação de uma calculadora contendo métodos estáticos de soma e subtração, recebendo dois parâmetros inteiros cada.
+* **Atividade 7 (resumo):** Criação de uma classe abstrata chamada Padrao com métodos abstratos de conversão de moeda, herdada e implementada por uma classe Conversor.
+* **Atividade 8 (resumo):** Criação das interfaces IDesconto e IBonus implementadas por uma classe Colaborador, contendo métodos para cálculo de desconto de vale-transporte e premiação por falta.
 Como Executar:
 
 Para rodar qualquer um dos exercícios localmente, navegue até a pasta do projeto escolhido e utilize o comando abaixo no terminal:
