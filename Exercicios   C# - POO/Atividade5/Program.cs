@@ -16,3 +16,6 @@ o método protegido da classe Produto e o método privado da mesma.
 construtor e herança.
 */
 
+Geladeira consul = new("geladeira fria","consul",5000,800);
+
+Smartphone iphone = new("17","iphone",5000,"IOS");
