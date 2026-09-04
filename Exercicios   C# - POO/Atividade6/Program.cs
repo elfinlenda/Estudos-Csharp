@@ -9,5 +9,7 @@ Os métodos deverão ser estáticos.
 - O que vamos utilizar: Classe, objeto, atributo e método estático
 */
 
-Calculadora.somar(12,12);
+
+// acessando os metodos  sem instanciar um obejeto ( isso tambem funciona para atributos)
+Calculadora.somar(12,12);  
 Calculadora.subtrair(1,12);
